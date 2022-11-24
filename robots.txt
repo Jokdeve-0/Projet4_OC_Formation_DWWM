@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap : https://jokdeve-0.github.io/GeorgesRamos_4_16052021/sitemap.xml
